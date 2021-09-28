@@ -15,7 +15,8 @@ public class Application {
 	
 	@RequestMapping("/")
 	public String home() {
-		return "Hello World - from Docker";
+		return "Hello Docker World... Welcome To Lotakki CICD. Welcome To Clench Programming..................Included Subbu Project! Updated in September";
+
 	}
 
 }
